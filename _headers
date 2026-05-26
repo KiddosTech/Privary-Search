@@ -1,0 +1,8 @@
+/*
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+
+/api/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=300
